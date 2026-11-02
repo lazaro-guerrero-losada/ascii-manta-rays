@@ -2,26 +2,6 @@
 
 > Majestic manta rays gliding in ASCII on HTML canvas with biomimetic pectoral wing oscillations. Zero dependencies.
 
-```text
-               .---.
-              /     \
-             /  / \  \
-       .----'  (   )  '----.
-      / :;t%SX8#| |#8XS%t;: \
-     / :;t%SX8#@| |@#8XS%t;: \
-    /  :;t%SX8#@| |@#8XS%t;:  \
-   /   :;t%SX8#@| |@#8XS%t;:   \
-  /    :;t%SX8#@| |@#8XS%t;:    \
- '-----'---.    | |    .---'-----'
-            \   | |   /
-             \  | |  /
-              '-| |-'
-                | |
-                | |
-                | |
-                ' '
-```
-
 ![ASCII Manta Rays Demo](demo.gif)
 
 Aerodynamic and hydrofoil physics rendered entirely with monospace ASCII characters on an HTML `<canvas>`. Includes spanwise travelling waves along the pectoral wings, bank angle roll kinematics, escorting pilot fish / remoras, and four distinct ray species.
