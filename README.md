@@ -22,6 +22,8 @@
                 ' '
 ```
 
+![ASCII Manta Rays Demo](demo.gif)
+
 Aerodynamic and hydrofoil physics rendered entirely with monospace ASCII characters on an HTML `<canvas>`. Includes spanwise travelling waves along the pectoral wings, bank angle roll kinematics, escorting pilot fish / remoras, and four distinct ray species.
 
 Inspired by [ascii-sharks](https://github.com/stackedlol/ascii-sharks).
